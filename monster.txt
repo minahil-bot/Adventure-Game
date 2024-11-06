@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "A terrifying dragon appers, its scales shimmering with fiery hues."
+

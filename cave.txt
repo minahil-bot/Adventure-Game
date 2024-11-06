@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "You enter a dark cave, the air thick with moisture and the faint sound of dripping water echoing through the shadowy depths, as a cool breeze carries whispers of secrets long buried."
+

@@ -1,0 +1,3 @@
+#!bin/bash/bash
+echo "You stand before an imposting castle, its ancient stones looming under a twilight sky, where flickering torches cast eerie shadows that dance along the cold, damp walls."
+
